@@ -1,0 +1,1 @@
+visual_python is a collection of excersises on Python programming for CS students.
